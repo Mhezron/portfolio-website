@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hezron's Portfolio website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with love using React and Tailwind CSS
 
 ## Available Scripts
 
